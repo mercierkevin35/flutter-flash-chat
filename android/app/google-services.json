@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489247492137",
+    "project_id": "flashchat-31f9b",
+    "storage_bucket": "flashchat-31f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489247492137:android:ab940a170aa784abddb438",
+        "android_client_info": {
+          "package_name": "com.architechweb.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489247492137-j2sia81elsl9hk83tt6f3vt2imup1eih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF24vP6gL797tA90x9m1DAWUaNR4O9X5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489247492137-j2sia81elsl9hk83tt6f3vt2imup1eih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
